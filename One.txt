@@ -5,3 +5,5 @@ One.text
 -- test change 4
 -- test change 5
 -- hotfix 3
+
+-- test 6
