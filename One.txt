@@ -7,3 +7,5 @@ One.text
 -- hotfix 3
 
 -- test 6
+
+-- test 7
