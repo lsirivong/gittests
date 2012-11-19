@@ -1,2 +1,4 @@
 three.txt
+<<<<<<< HEAD
 -- hotfix-1 change.
+-- Test change.
